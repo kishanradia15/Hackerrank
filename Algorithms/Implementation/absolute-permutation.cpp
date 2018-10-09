@@ -23,7 +23,6 @@ int main() {
                 if(temp==0) temp = n;
                 cout<<temp<<" ";
             }
-            cout<<endl;
         }
         t--;
     }
